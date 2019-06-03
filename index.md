@@ -1,13 +1,20 @@
 ---
 layout: page
-title: Swift Guidelines
+title: Swift Style Guide
 ---
-
+<!-- {% comment %}
+The width of <pre> elements on this page is carefully regulated, so we
+can afford to drop the scrollbar boxes.
+{% endcomment %} -->
 <style>
 article pre {
     overflow: visible;
 }
 </style>
+
+This style guide is based on Apple's excellent Swift standard library style and
+should be taken into account before programming to preserve a nice and organized code.
+
 ## Table of Contents
 {:.no_toc}
 
